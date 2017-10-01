@@ -4,5 +4,5 @@ deploy:
   api-key:
     secure: fnhebir5YG+yF+Aaq3yTwHx7f1qvgvTnDGhDTAKR5f9V0nJAb/Gb7lpeUHMaND4/vlTNX3Gpt+Vo7HQose9ogS3F/ghoYHzSy6D8V+2shsNxKxDBTAvlh+zMeDtPmXiX9/dN/OLz3k6Q56fbpqRZ03a5jV2gngeRqV8KyRkmID1HcjmO2tfS1goQkXso+60phoJBxn58Etr9UfVzC1n9gKZieWXesHbdWSBkxG98MXf+QDPOLBL1+arBlCiPlD83MPTQfI+Wk4Gjkcv8L+IA5frLAlW7OUyJp+1k3Q8jsmBBYmg0p8vlYPq6hfwgWrAplvNuEtGw01krkjtHEz51TXgMdLwKnfOgJ0rtRM1SpKJgVj3zRQM4G9eJAu91vgW9w3xDqbCgEZsz+fiDTbAJfHknqNJfQQltjBFjxuLVLaguHYMoT6CkmOCXejsqa38kv2U+kpYV+ywPA4dK0a6N2vdAAy4xGoGp7gt/jSadexWlAACsEKwHB34LyOhSRFMQrVadyfH05mWFZfD9sl2g6cjp/5aCVjEie4uJhcF1ytGvH19D+6lhaQDWGAAiScfHlfCg91iTszgXoZx3OF2R55+Sj1XbcbKsrLXC68X0ecd/cpZuQmarvA7gnHuz0BO+cDSdVNGSFGtpAQD2tdsYGhngDQOtb8G6XLamK79/dGQ=
   app:
-    master: trilharest-hello1-staging
-    production: trilharest-hello1-production
+    staging: trilharest-hello1-staging
+    master: trilharest-hello1-production
