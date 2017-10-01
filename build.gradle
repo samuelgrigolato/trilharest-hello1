@@ -1,7 +1,6 @@
 
 plugins {
     id 'org.springframework.boot' version '1.5.7.RELEASE'
-    id "io.ratpack.ratpack-groovy" version "1.4.5"
 }
 
 // Apply the java plugin to add support for Java
@@ -32,5 +31,5 @@ dependencies {
 }
 
 task stage {
-  dependsOn installDist
+  dependsOn build
 }
